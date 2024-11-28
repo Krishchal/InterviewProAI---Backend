@@ -64,7 +64,7 @@ import nltk
 from nltk.corpus import stopwords
 
 # Download the stopwords if not already downloaded
-nltk.download('stopwords')
+# nltk.download('stopwords')
 
 def preprocess_text(text):
     """
